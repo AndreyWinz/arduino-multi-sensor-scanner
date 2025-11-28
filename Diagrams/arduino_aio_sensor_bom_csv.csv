@@ -1,0 +1,23 @@
+Label;Part Type;mn;mpn;part number;
+IC1;4-3 Trans;;;;
+IR1;TSOP312.., 314..;;;;
+M1;fc-51;;;;
+Part1;Arduino Uno (Rev3);;;;
+Part2;Bluetooth HC-05 Macho;;;;
+RHT1;Humidity and Temperature Sensor RHT03;;;;
+U1;Clap Sensor;;;;
+U3;Touch;;;;
+U4;Lafvin;;;;
+X1;USB Connectors;;;;
+
+Amount;Part Type;mn;mpn;part number;
+1;4-3 Trans;;;;
+1;Arduino Uno (Rev3);;;;
+1;Bluetooth HC-05 Macho;;;;
+1;Clap Sensor;;;;
+1;Humidity and Temperature Sensor RHT03;;;;
+1;Lafvin;;;;
+1;TSOP312.., 314..;;;;
+1;Touch;;;;
+1;USB Connectors;;;;
+1;fc-51;;;;
