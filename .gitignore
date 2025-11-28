@@ -1,0 +1,50 @@
+# ===========================
+# Arduino Build Artifacts
+# ===========================
+*.hex
+*.eep
+*.elf
+*.bin
+*.map
+*.lst
+
+# Arduino IDE backup files
+*~
+*.bak
+*.tmp
+
+# VSCode Arduino extension build folder
+.vscode/
+.arduino/
+
+# PlatformIO (if ever used)
+.pio/
+.cache/
+
+# ===========================
+# Fritzing
+# ===========================
+# Keep .fz and .fzz files, ignore temp/autosave
+*.fzb
+*.fzbz
+*.fzp
+*.fzpz
+*.autosave*
+Fritzing*Autosave*
+
+# ===========================
+# OS/System Files
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# Logs
+# ===========================
+*.log
+
+# ===========================
+# Backup folders
+# ===========================
+*/__MACOSX/
