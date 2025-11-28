@@ -11,13 +11,13 @@ A modular Arduino Uno project that scans, detects, and reads multiple sensors on
 - Auto-scans all connected sensors
 - Serial output via CP2102 @ 9600 baud
 - Supports:
-  - CZN-15E clap sensor  
-  - MH-Flying-Fish IR obstacle sensor  
+  - CZN-15E 4-pin clap sensor  
+  - MH-Flying-Fish 3-pin IR obstacle sensor  
   - DHT11 temperature/humidity  
-  - Lafvin 3-sensor line tracker  
+  - Lafvin 5-pin 3-sensor line tracker  
   - HC-05 BLE module (AT response check)  
   - Touch sensor (3-pin type)  
-  - HW-477 Breakout IR sensor  
+  - HW-477 Breakout 3-pin IR sensor  
 - Modular test functions for easy expansion
 - Works with PuTTY, Arduino Serial Monitor, etc.
 
