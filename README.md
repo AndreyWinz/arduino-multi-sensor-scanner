@@ -31,6 +31,12 @@ A modular Arduino Uno project that scans, detects, and reads multiple sensors on
 
 ---
 
+## 📜 Required Libraries
+- SoftwareSerial (built-in)
+- DHT kxn 3.4.4 or later
+- DHT sensor library 1.4.6 or later 
+- (If needed, libraries provided in folder "Libraries" in this repo)
+
 ## 🔧 Wiring Overview
 ### CP2102 → Arduino
 TXD → RX (D0)
